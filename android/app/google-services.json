@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29570894354",
+    "project_id": "todo-crud-9e0d1",
+    "storage_bucket": "todo-crud-9e0d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29570894354:android:b9655920da89455c5e26cb",
+        "android_client_info": {
+          "package_name": "com.example.sqflite_database_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29570894354-elc6gvofoud6gkt9autlk8b1gc5ls5ko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADqhGCQUfJnSYfYSHLFIUdm6OOOwi2ZCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29570894354-elc6gvofoud6gkt9autlk8b1gc5ls5ko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
